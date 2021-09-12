@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon typescript ",
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "tsc": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^16.9.1",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}
